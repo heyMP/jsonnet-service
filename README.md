@@ -4,7 +4,9 @@ Function as a service for [jsonnet](https://jsonnet.org/)
 
 ## Usage
 
+```bash
 curl --header "Content-Type: text/plain" -d "local a = { x: 1, y: b.y, }, b = { x: a.x, y: 2, }; [a, b]" http://localhost:3000?y
+```
 
 ## JSONNET cli Options
 
