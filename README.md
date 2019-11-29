@@ -8,7 +8,7 @@ Microservice wrapper for [https://jsonnet.org/](https://jsonnet.org/)
 curl --header "Content-Type: text/plain" -d "local a = { x: 1, y: b.y, }, b = { x: a.x, y: 2, }; [a, b]" http://localhost:3000?y
 ```
 
-## JSONNET cli Options
+## JSONNET CLI Options
 
 Currently supports the -e and -y flags. Add the options as query parameters in the request url
 
