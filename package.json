@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "uuid": "^3.3.3"
+    "express": "^4.16.2"
   }
 }
