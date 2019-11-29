@@ -1,6 +1,6 @@
-# JSONNET FAAS
+# JSONNET Microservice
 
-Function as a service for [jsonnet](https://jsonnet.org/)
+Microservice as a service for [jsonnet](https://jsonnet.org/)
 
 ## Usage
 
