@@ -1,6 +1,6 @@
 # JSONNET Microservice
 
-Microservice as a service for [jsonnet](https://jsonnet.org/)
+Microservice wrapper for [https://jsonnet.org/](https://jsonnet.org/)
 
 ## Usage
 
