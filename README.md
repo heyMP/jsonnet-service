@@ -1,6 +1,6 @@
 # JSONNET FAAS
 
-Function as a service for (jsonnet)[https://jsonnet.org/]
+Function as a service for [jsonnet](https://jsonnet.org/)
 
 ## Usage
 
@@ -14,4 +14,4 @@ Example: `http://localhost:3000?y`
 
 ## OpenFaas
 
-This function supports OpenFaas framework. A sample template.yml file is included. See OpenFaas documentation for deploying this function. (https://www.openfaas.com/)[https://www.openfaas.com/]
+This function supports OpenFaas framework. A sample template.yml file is included. See OpenFaas documentation for deploying this function. [https://www.openfaas.com/](https://www.openfaas.com/)
